@@ -1,2 +1,2 @@
 # GitFirstRepo
-This is my fisrt repo!
+This is my first repo tested at the Jenkins Training!
